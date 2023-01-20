@@ -1,3 +1,1 @@
-# butter
-For work
-it is a first cat photo app.
+it is a basic html cat photo app for practice.
